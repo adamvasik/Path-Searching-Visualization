@@ -1,0 +1,41 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+.navbar h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.navbar p {
+  margin: 0;
+  margin-right:10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.navbar button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #333;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.navbar button:hover {
+  background-color: #eee;
+}
+
+.actionWrapper {
+  display: flex;
+  align-content:space-evenly;
+  align-items:center;
+}

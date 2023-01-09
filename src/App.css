@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h5 {
+  margin: 0 10px;
+  text-align:center;
+}
+
+h4 {
+  text-align: center;
+  color: red;
+}
